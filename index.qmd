@@ -3,3 +3,5 @@ title: "Khushaal's Website"
 ---
 
 Hi, my name is Khushaal Nandwani. I'am a final year student at the University of Toronto, doing Computer Science Major with Economics and Statistics Minor.
+
+There are some books I like such as Pragmattic Progammer, Clean Architecture etc.
